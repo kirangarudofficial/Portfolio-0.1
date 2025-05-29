@@ -1,0 +1,28 @@
+Portfolio-web-updated/
+├── backend/
+│   ├── controllers/
+│   │   ├── projectController.js ✅
+│   │   └── skillController.js ✅
+│   ├── routes/
+│   │   ├── projects.js ✅
+│   │   └── skills.js ✅
+│   ├── .env ✅
+│   ├── index.js ✅
+│   ├── package.json
+│   └── ... (other backend files)
+│
+├── frontend/
+│   ├── public/
+│   │   └── index.html ✅
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── AboutMe.js ✅
+│   │   │   ├── Hero.js ✅
+│   │   │   └── ThemeToggle.js ✅
+│   │   ├── index.js ✅
+│   │   ├── App.js
+│   │   └── index.css (if available)
+│   ├── package.json
+│   └── ... (other frontend files)
+│
+└── README.md (optional)
